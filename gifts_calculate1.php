@@ -19,7 +19,7 @@ echo("Number of questions: ".$finalq."<br><br>");
 
 $administration = $apostleship = $craftsmanship = $thearts = $discernment
 = $exhortation = $evangelism = $faith = $giving = $service = $hospitality
-= $intercession = $knowledge = $leadership = $mercy = $prophecy 
+= $intercession = $knowledge = $leadership = $mercy = $prophecy
 = $shepherding = $teaching = $wisdom = 0;
 
 for($i=1;$i<=$finalq;$i++)
@@ -169,24 +169,24 @@ echo("</tr>");
 echo("</table>");
 
 $gifts = array(
-"Administration" => $administration, 
-"Apostleship" => $apostleship, 
+"Administration" => $administration,
+"Apostleship" => $apostleship,
 "Craftsmanship"  => $craftsmanship,
 "The Arts (Music, visual,drama)" => $thearts,
-"Discernment" => $discernment, 
+"Discernment" => $discernment,
 "Exhortation" => $exhortation,
 "Evangelism" => $evangelism,
-"Faith" => $faith, 
-"service" => $service, 
-"Service" => $service, 
+"Faith" => $faith,
+"service" => $service,
+"Service" => $service,
 "Hospitality" => $hospitality,
-"Intercession" => $intercession, 
-"Knowledge" => $knowledge, 
-"Leadership"  => $leadership, 
+"Intercession" => $intercession,
+"Knowledge" => $knowledge,
+"Leadership"  => $leadership,
 "Mercy" => $mercy,
-"Prophecy" => $prophecy, 
-"Shepherding" => $shepherding, 
-"Teaching" => $teaching, 
+"Prophecy" => $prophecy,
+"Shepherding" => $shepherding,
+"Teaching" => $teaching,
 "Wisdom" => $wisdom
 );
 
@@ -200,11 +200,15 @@ echo("Your gifts in ascending order: <br>");
 $k=1;
 foreach($gifts as $x => $x_value)
 {
-	
+
 	echo("$k. $x : $x_value");
 	echo("<br>");
 	$k++;
 }
 
  $conn -> close();
+
+ echo("Your answers have been saved. <br><br>");
+ echo("<a href='http://localhost/eministry/enthusiasm.php'><< Part 2 - Enthusiasm</a>");
+
 ?>

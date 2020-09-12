@@ -30,15 +30,15 @@ $result1 = $conn->query($sql1);
 }*/
 
 //to connect to the questions database
- $sql = "SELECT * FROM questiontable WHERE id <= 133 AND gift = 'administration' OR gift = 'apostleship'";
+ $sql = "SELECT * FROM questiontable";
  $result = $conn->query($sql);
  ?>
- 
+
  <h2> Part 1 - Discovering Your Spiritual Gifts </h2>
  <h5> Definition: </h5>
  Spiritual Gifts are special abilities distributed by the Holy Spirit to every believer
  according to God’s design and grace for the common good of the body of Christ.
- 
+
  <h5> Directions: </h5>
  1. IMPORTANT: Please answer according to who you are, NOT who you would like to
 be or think you ought to be! As you go through the packet consider: <br>
@@ -86,7 +86,7 @@ SPIRITUAL GIFT ASSESSMENT QUESTIONS handout. <br>
 	 echo("<input type='submit' value='Submit'>");
 	 echo("</form>");
  }
- 
+
 //CloseCon($conn);
 $conn -> close();
 ?>
