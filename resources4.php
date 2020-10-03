@@ -13,6 +13,6 @@ echo($r2."<br>");
 echo($r3."<br>");
 
 echo("Your answers have been saved. <br><br>");
- echo("<a href='http://localhost/eministry/enthusiasm.php'><< Part 2 - Enthusiasm</a><br>");
+echo("<a href='http://localhost/eministry/enthusiasm.php'><< Part 2 - Enthusiasm</a><br>");
 echo("<a href='http://localhost/eministry/viewpoint.php'>Part 4 - View Point>></a>");
 ?>

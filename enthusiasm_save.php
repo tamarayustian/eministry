@@ -11,10 +11,10 @@ $enthus2 = $_POST["enthus2"];
 $enthus3 = $_POST["enthus3"];
 $enthus4 = $_POST["enthus4"];
 
-/*echo("1.) ".$enthus1."<br>");
+echo("1.) ".$enthus1."<br>");
 echo("2.) ".$enthus2."<br>");
 echo("3.) ".$enthus3."<br>");
-echo("4.) ".$enthus4."<br>");*/
+echo("4.) ".$enthus4."<br>");
 
 echo("Your answers have been saved. <br><br>");
 echo("<a href='http://localhost/eministry/gifts_questions.php'><< Part 1 - Spiritual Gifts</a><br>");

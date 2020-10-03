@@ -192,7 +192,7 @@ personality or temperament with which God created you.
     <td><input type='radio' name = 'e4' value='2'> </td>
     <td><input type='radio' name = 'e4' value='4'> </td>
     <td><input type='radio' name = 'e4' value='5'> </td>
-    <td> built a relationshi </td>
+    <td> built a relationship </td>
   </tr>
   <tr>
     <td>5. It is more important to start a meeting </td>
@@ -254,17 +254,127 @@ personality or temperament with which God created you.
     <td><input type='radio' name = 'e10' value='5'> </td>
     <td> identify with others </td>
   </tr>
+
+
+
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr><th>How are you characterized?<th></tr>
+  <tr></tr>
+  <tr></tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>1. I usually have </td>
+      <td><p> high energy </p></td>
+      <td><input type='radio' name = 'c1' value='1'> </td>
+      <td><input type='radio' name = 'c1' value='3'> </td>
+      <td><input type='radio' name = 'c1' value='2'> </td>
+      <td><input type='radio' name = 'c1' value='4'> </td>
+      <td><input type='radio' name = 'c1' value='5'> </td>
+      <td> quiet energy </td>
+    </tr>
+    <tr>
+      <td>2. When interacting with others, I </td>
+      <td><p> talk more </p></td>
+      <td><input type='radio' name = 'c2' value='1'> </td>
+      <td><input type='radio' name = 'c2' value='3'> </td>
+      <td><input type='radio' name = 'c2' value='2'> </td>
+      <td><input type='radio' name = 'c2' value='4'> </td>
+      <td><input type='radio' name = 'c2' value='5'> </td>
+      <td> listen more </td>
+    </tr>
+    <tr>
+      <td>3. I tend to </td>
+      <td><p> act, then think </p></td>
+      <td><input type='radio' name = 'c3' value='1'> </td>
+      <td><input type='radio' name = 'c3' value='3'> </td>
+      <td><input type='radio' name = 'c3' value='2'> </td>
+      <td><input type='radio' name = 'c3' value='4'> </td>
+      <td><input type='radio' name = 'c3' value='5'> </td>
+      <td> think, then act </td>
+    </tr>
+    <tr>
+      <td>4. I like to </td>
+      <td><p> be around people </p></td>
+      <td><input type='radio' name = 'c4' value='1'> </td>
+      <td><input type='radio' name = 'c4' value='3'> </td>
+      <td><input type='radio' name = 'c4' value='2'> </td>
+      <td><input type='radio' name = 'c4' value='4'> </td>
+      <td><input type='radio' name = 'c4' value='5'> </td>
+      <td> be alone </td>
+    </tr>
+    <tr>
+      <td>5. I am </td>
+      <td><p> easy to get to know </p></td>
+      <td><input type='radio' name = 'c5' value='1'> </td>
+      <td><input type='radio' name = 'c5' value='3'> </td>
+      <td><input type='radio' name = 'c5' value='2'> </td>
+      <td><input type='radio' name = 'c5' value='4'> </td>
+      <td><input type='radio' name = 'c5' value='5'> </td>
+      <td> pretty private </td>
+    </tr>
+    <tr>
+      <td>6. I preferred to do </td>
+      <td><p> lots of things at once </p></td>
+      <td><input type='radio' name = 'c6' value='1'> </td>
+      <td><input type='radio' name = 'c6' value='3'> </td>
+      <td><input type='radio' name = 'c6' value='2'> </td>
+      <td><input type='radio' name = 'c6' value='4'> </td>
+      <td><input type='radio' name = 'c6' value='5'> </td>
+      <td> one thing at a time </td>
+    </tr>
+    <tr>
+      <td>7. In large group setting, I feel </td>
+      <td><p> energized </p></td>
+      <td><input type='radio' name = 'c7' value='1'> </td>
+      <td><input type='radio' name = 'c7' value='3'> </td>
+      <td><input type='radio' name = 'c7' value='2'> </td>
+      <td><input type='radio' name = 'c7' value='4'> </td>
+      <td><input type='radio' name = 'c7' value='5'> </td>
+      <td> drained </td>
+    </tr>
+    <tr>
+      <td>8. In working environment, I tend to </td>
+      <td><p> be more sociable </p></td>
+      <td><input type='radio' name = 'c8' value='1'> </td>
+      <td><input type='radio' name = 'c8' value='3'> </td>
+      <td><input type='radio' name = 'c8' value='2'> </td>
+      <td><input type='radio' name = 'c8' value='4'> </td>
+      <td><input type='radio' name = 'c8' value='5'> </td>
+      <td> keep to myself </td>
+    </tr>
+    <tr>
+      <td>9. In social settings, I tend to </td>
+      <td><p> interact with many </p></td>
+      <td><input type='radio' name = 'c9' value='1'> </td>
+      <td><input type='radio' name = 'c9' value='3'> </td>
+      <td><input type='radio' name = 'c9' value='2'> </td>
+      <td><input type='radio' name = 'c9' value='4'> </td>
+      <td><input type='radio' name = 'c9' value='5'> </td>
+      <td> keep to few friends </td>
+    </tr>
+    <tr>
+      <td>10. When I think, I think </td>
+      <td><p> out loud </p></td>
+      <td><input type='radio' name = 'c10' value='1'> </td>
+      <td><input type='radio' name = 'c10' value='3'> </td>
+      <td><input type='radio' name = 'c10' value='2'> </td>
+      <td><input type='radio' name = 'c10' value='4'> </td>
+      <td><input type='radio' name = 'c10' value='5'> </td>
+      <td> quietly inside my head </td>
+    </tr>
 </table>
 <br><br><br>
 
 <input type = 'submit' value = 'Submit'>
 </form>
-
-
-<?php
-session_start();
-
-
-
-
-?>
